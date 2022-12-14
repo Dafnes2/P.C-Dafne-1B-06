@@ -1,0 +1,57 @@
+body {
+	
+}
+
+#banner {
+	width:100%;
+}
+
+#estoque {
+	width:50%;
+}
+
+#estudo {
+	width:50%;
+}
+
+#vendedor {
+	width:50%;
+}
+
+#garantia {
+	width:50%;
+}
+
+#qualidade {
+	width:50%;
+}
+
+.principal{
+	background: #CCCCCC;
+	padding: 10px;
+}
+
+.secundaria{
+	background: #e5e5e5;
+	padding: 5px;
+}
+
+
+
+p  {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
+h3 {
+	text-align: center;
+}
+h4 {
+	text-align: center;
+
+}
